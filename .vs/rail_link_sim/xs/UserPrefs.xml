@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A65AD20B-5965-4D36-AD12-715E6009D491}|Default">
+  <MonoDevelop.Ide.ItemProperties.rail__link__sim PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="rail_link_sim/EMU_Utilization.cs">
+    <Files>
+      <File FileName="rail_link_sim/EMU_Utilization.cs" Line="16" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

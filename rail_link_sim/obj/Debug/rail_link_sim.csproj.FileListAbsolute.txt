@@ -1,0 +1,56 @@
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/bin/Debug/rail_link_sim.exe.config
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/bin/Debug/rail_link_sim.exe
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/bin/Debug/rail_link_sim.pdb
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.infarstructure_file_builder.resources
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.physical_simulator.resources
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.Properties.Resources.resources
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.Route_management.resources
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.Service_Planning.resources
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.simmulation_engine.resources
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.train_management.resources
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.train_service_planning.resources
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.csproj.GenerateResource.Cache
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.exe
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.pdb
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.train_time_table.resources
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.graph_editor_panel.resources
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.EMU_Utilization.resources
+C:/Users/somsi/Source/Repos/Thailand_teaching_platfrom/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.csprojResolveAssemblyReference.cache
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/bin/Debug/rail_link_sim.exe.config
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/bin/Debug/rail_link_sim.exe
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/bin/Debug/rail_link_sim.pdb
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.csprojResolveAssemblyReference.cache
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.EMU_Utilization.resources
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.graph_editor_panel.resources
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.infarstructure_file_builder.resources
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.physical_simulator.resources
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.Properties.Resources.resources
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.Route_management.resources
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.Service_Planning.resources
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.simmulation_engine.resources
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.train_management.resources
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.train_service_planning.resources
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.train_time_table.resources
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.csproj.GenerateResource.cache
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.csproj.CoreCompileInputs.cache
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.exe
+/Users/ATCHAPCYP/Repository/privateworkspace/rail_link_sim/rail_link_sim/obj/Debug/rail_link_sim.pdb
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/bin/Debug/rail_link_sim.exe.config
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/bin/Debug/rail_link_sim.exe
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/bin/Debug/rail_link_sim.pdb
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.csprojAssemblyReference.cache
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.EMU_Utilization.resources
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.graph_editor_panel.resources
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.infarstructure_file_builder.resources
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.physical_simulator.resources
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.Properties.Resources.resources
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.Route_management.resources
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.Service_Planning.resources
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.simmulation_engine.resources
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.train_management.resources
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.train_service_planning.resources
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.train_time_table.resources
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.csproj.GenerateResource.cache
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.csproj.CoreCompileInputs.cache
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.exe
+/Users/Billy/Desktop/project/rail_link_sim-master 2/rail_link_sim/obj/Debug/rail_link_sim.pdb
